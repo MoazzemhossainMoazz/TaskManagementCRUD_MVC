@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvxCCQnN450=",
+  "dgSpecHash": "3Cpc8cQ2yEQ=",
   "success": true,
-  "projectFilePath": "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+  "projectFilePath": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

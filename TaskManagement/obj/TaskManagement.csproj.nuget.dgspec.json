@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
+    "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {}
   },
   "projects": {
-    "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
+    "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectUniqueName": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
         "projectName": "TaskManagement",
-        "projectPath": "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+        "projectPath": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\PowerSoftIT\\MVC Project\\TaskManagement\\TaskManagement\\obj\\",
+        "outputPath": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

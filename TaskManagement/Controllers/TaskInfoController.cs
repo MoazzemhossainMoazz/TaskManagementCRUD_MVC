@@ -20,6 +20,14 @@ namespace TaskManagement.Controllers
             return View(model);
         }
 
+        public ActionResult Delete(int id)
+        {
+            var task = _dbContext.Tasks.Find(id);
+            _dbContext.Tasks.Remove(task);
+            _dbContext.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
         public ActionResult Create()
         {
             return View();
