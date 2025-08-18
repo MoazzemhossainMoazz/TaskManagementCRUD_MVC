@@ -28,6 +28,11 @@ namespace TaskManagement.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult Details(int id)
+        {
+            var task = _dbContext.Tasks.Find(id);
+            return View(task);
+        }
         public ActionResult Create()
         {
             return View();
