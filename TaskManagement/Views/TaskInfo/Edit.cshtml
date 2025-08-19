@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model TaskManagement.Models.TaskInfoModels
+
+<h1>Task Info Update</h1>
+<form asp-action="Edit" asp-controller="TaskInfo" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="TaskName"></label>
+        <input type="text" id="TaskName" asp-for="TaskName" class="form-control" />
+        @* <span asp-validation-for="TaskName" class="text-danger"></span> *@
+    </div>
+    <div class="form-group">
+        <label asp-for="TaskDescription"></label>
+        <textarea id="TaskDesription" asp-for="TaskDescription" class="form-control"></textarea>
+        @* <span asp-validation-for="TaskDescription" class="text-danger"></span> *@
+    </div>
+    <input type="submit" value="Update"/>
+    </form>

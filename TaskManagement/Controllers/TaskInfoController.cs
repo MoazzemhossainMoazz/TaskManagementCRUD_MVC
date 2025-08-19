@@ -43,10 +43,26 @@ namespace TaskManagement.Controllers
         {
 
             _dbContext.Tasks.Add(taskInfoModels);
-            if(_dbContext.SaveChanges()>0)
+            if (_dbContext.SaveChanges() > 0)
             { return RedirectToAction("Index"); }
 
             return View(taskInfoModels);
+        }
+
+        public ActionResult Edit(int id)
+        {
+            var task = _dbContext.Tasks.Find(id);
+            return View(task);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(TaskInfoModels taskInfoModels)
+        {
+            _dbContext.Tasks.Update(taskInfoModels);
+            if (_dbContext.SaveChanges() > 0)
+            { return RedirectToAction("Index"); }
+            return View(taskInfoModels);
+
         }
     }
 }

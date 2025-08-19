@@ -343,8 +343,8 @@ D:\PowerSoftIT\MVC Project\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskMa
 D:\PowerSoftIT\MVC Project\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.Development.json
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\appsettings.json
-D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.runtime.json
+D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.staticwebassets.endpoints.json
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
 D:\PowerSoftIT\MyProject\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
