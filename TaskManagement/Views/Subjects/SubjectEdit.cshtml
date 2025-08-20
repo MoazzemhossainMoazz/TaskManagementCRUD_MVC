@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model TaskManagement.Models.SubjectModels
+
+
+<h1>Department Update</h1>
+<form asp-action="SubjectEdit" asp-controller="Subjects" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Subject"></label>
+        <input type="text" id="Subject" asp-for="Subject" class="form-control" />
+        @* <span asp-validation-for="TaskName" class="text-danger"></span> *@
+    </div>
+    <div class="form-group">
+        <label asp-for="SubjectCode"></label>
+        <input type="text" id="SubjectCode" asp-for="SubjectCode" class="form-control" />
+        @* <span asp-validation-for="TaskName" class="text-danger"></span> *@
+    </div>
+    
+    <input type="submit" value="Update" />
+</form>
