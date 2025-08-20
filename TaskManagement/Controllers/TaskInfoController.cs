@@ -44,7 +44,9 @@ namespace TaskManagement.Controllers
 
             _dbContext.Tasks.Add(taskInfoModels);
             if (_dbContext.SaveChanges() > 0)
-            { return RedirectToAction("Index"); }
+            { 
+                return RedirectToAction("Index"); 
+            }
 
             return View(taskInfoModels);
         }
