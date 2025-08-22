@@ -232,7 +232,7 @@
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Subjects\\SubjectEdit.cshtml",
               "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Subjects\\SubjectEdit.cshtml",
               "RelativeToolTip": "TaskManagement\\Views\\Subjects\\SubjectEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T11:46:11.066Z",
               "EditorCaption": ""
@@ -247,8 +247,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Subjects\\SubjectDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T11:25:12.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:25:12.885Z"
             },
             {
               "$type": "Document",
@@ -260,8 +259,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Subjects\\SubjectCreate.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T11:13:25.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:13:25.221Z"
             },
             {
               "$type": "Document",
@@ -273,8 +271,7 @@
               "RelativeToolTip": "TaskManagement\\Controllers\\SubjectsController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAqwDwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:02:50.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:02:50.645Z"
             },
             {
               "$type": "Document",
@@ -286,8 +283,7 @@
               "RelativeToolTip": "TaskManagement\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAAD4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:33:39.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T11:33:39.427Z"
             },
             {
               "$type": "Document",
@@ -299,8 +295,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T09:45:12.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T09:45:12.065Z"
             },
             {
               "$type": "Document",
@@ -312,8 +307,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:23:57.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:23:57.252Z"
             },
             {
               "$type": "Document",
@@ -325,8 +319,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:55:49.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T07:55:49.626Z"
             },
             {
               "$type": "Document",
@@ -338,8 +331,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T08:11:14.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T08:11:14.165Z"
             },
             {
               "$type": "Document",
@@ -351,8 +343,7 @@
               "RelativeToolTip": "TaskManagement\\Views\\Subjects\\SubjectIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T10:28:02.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:28:02.192Z"
             },
             {
               "$type": "Document",
