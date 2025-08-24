@@ -7,14 +7,21 @@
 
 @model TaskManagement.Models.DepartmentModels
 
-<div class="crud" style="width: 18rem;">
-    @* <img class="crud-img-top" src="..." alt="Card image cap"/> *@
-    <div class="card-body">
-        <p class="card-text">Department Name: @Model.DepartmentName</p>
-        <p class="card-text">Section: @Model.Section</p>
-        <p class="card-text">Faculty: @Model.Faculty</p>
-        <p class="card-text">Subject: @Model.Subject</p>
-        
-    </div>
+<div class="crud">
+    <h2>Department Details</h2>
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Model.Id</dd>
 
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.DepartmentName</dd>
+
+        <dt class="col-sm-2">Section</dt>
+        <dd class="col-sm-10">@Model.Section</dd>
+
+        <dt class="col-sm-2">Faculty</dt>
+        <dd class="col-sm-10">@Model.Subject</dd>
+    </dl>
+    <a asp-action="DepartmentEdit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="DepartmentIndex" class="btn btn-secondary">Back to List</a>
 </div>

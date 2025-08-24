@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\models\\taskinfomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\models\\taskinfomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\data\\taskcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\data\\taskcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\models\\taskinfomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\models\\taskinfomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\taskinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,20 +63,12 @@
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\subjects\\subjectedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\subjects\\subjectcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\subjects\\subjectcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\subjects\\subjectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\subjects\\subjectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\views\\department\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD8E477A-8E63-4337-8273-1A4B29F06E3C}|TaskManagement\\TaskManagement.csproj|d:\\powersoftit\\myproject\\taskmanagement\\taskmanagement\\views\\subjects\\subjectindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 38,
           "Children": [
             {
               "$type": "Bookmark",
@@ -111,10 +111,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -241,21 +237,63 @@
               "Name": "ST:1309131781:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TaskInfoModels.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Models\\TaskInfoModels.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Models\\TaskInfoModels.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Models\\TaskInfoModels.cs",
-              "RelativeToolTip": "TaskManagement\\Models\\TaskInfoModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T12:01:21.143Z",
+              "WhenOpened": "2025-08-19T11:33:39.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeToolTip": "TaskManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T10:59:24.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentCreate.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
+              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T08:11:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentEdit.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
+              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T09:45:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TaskContextData.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Data\\TaskContextData.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Data\\TaskContextData.cs",
@@ -268,71 +306,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Program.cs*",
-              "RelativeToolTip": "TaskManagement\\Program.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:01:13.053Z",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDetails.cshtml",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
+              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
+              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T07:55:49.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "TaskManagement\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:33:39.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DepartmentIndex.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentIndex.cshtml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentIndex.cshtml",
               "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentIndex.cshtml",
               "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T07:23:57.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:01:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskInfoModels.cs",
+              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Models\\TaskInfoModels.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Models\\TaskInfoModels.cs",
+              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Models\\TaskInfoModels.cs",
+              "RelativeToolTip": "TaskManagement\\Models\\TaskInfoModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T12:01:21.143Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\appsettings.json",
-              "RelativeToolTip": "TaskManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-23T10:59:24.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentCreate.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
-              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentCreate.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T08:11:14.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Models\\UserModel.cs",
@@ -340,12 +364,11 @@
               "RelativeToolTip": "TaskManagement\\Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:29:05.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T11:29:05.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Controllers\\UserController.cs",
@@ -353,12 +376,11 @@
               "RelativeToolTip": "TaskManagement\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:32:32.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T11:32:32.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "TaskInfoController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\TaskInfoController.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TaskInfoController.cs",
@@ -370,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\TaskInfo\\Edit.cshtml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\TaskInfo\\Edit.cshtml",
@@ -378,12 +400,11 @@
               "RelativeToolTip": "TaskManagement\\Views\\TaskInfo\\Edit.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T09:44:32.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T09:44:32.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SubjectsController.cs",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Controllers\\SubjectsController.cs",
               "RelativeDocumentMoniker": "TaskManagement\\Controllers\\SubjectsController.cs",
@@ -395,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SubjectEdit.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Subjects\\SubjectEdit.cshtml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Subjects\\SubjectEdit.cshtml",
@@ -407,19 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DepartmentEdit.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
-              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T09:45:12.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SubjectCreate.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Subjects\\SubjectCreate.cshtml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Subjects\\SubjectCreate.cshtml",
@@ -431,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SubjectDetails.cshtml",
               "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Subjects\\SubjectDetails.cshtml",
               "RelativeDocumentMoniker": "TaskManagement\\Views\\Subjects\\SubjectDetails.cshtml",
@@ -440,18 +449,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-20T11:25:12.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DepartmentDetails.cshtml",
-              "DocumentMoniker": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
-              "RelativeDocumentMoniker": "TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
-              "ToolTip": "D:\\PowerSoftIT\\MyProject\\TaskManagement\\TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
-              "RelativeToolTip": "TaskManagement\\Views\\Department\\DepartmentDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T07:55:49.626Z"
             },
             {
               "$type": "Document",
